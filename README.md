@@ -8,9 +8,8 @@
 
 ### Stats
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=username-naz&count_private=t&hide=stars&theme=cobalt%22" />  
-&nbsp;  
 
-### Steps to write code for anything:
+## Steps to write code for anything:
 step 1:  
 <a href = "https://stackoverflow.com/"><img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/330px-Stack_Overflow_logo.svg.png"></a>  
 &nbsp;  
