@@ -9,12 +9,8 @@
 
 ## Steps to write code for anything:
 step 1:  
-<a href = "https://stackoverflow.com/"><img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/330px-Stack_Overflow_logo.svg.png"></a>  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-[rick roll yourself](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href = "https://stackoverflow.com/"><img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/330px-Stack_Overflow_logo.svg.png"></a>
 <br><br>
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&icon_color=fff&bg_color=30,e03889,ffb0d6&title_color=fff&border_color=#ffbd66&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&icon_color=fff&bg_color=30,e03889,ffb0d6&title_color=fff&border_color=#ffbd66&text_color=fff)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
