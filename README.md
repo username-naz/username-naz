@@ -7,7 +7,7 @@
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 
 ### Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=username-naz&count_private=t&hide=stars&theme=cobalt%22" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=username-naz&count_private=t&hide=stars&theme=cobalt%22" />  
 
 ### Steps to write code for anything:
 step 1:  
