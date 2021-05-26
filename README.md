@@ -17,4 +17,4 @@ step 1:
 <br><br>
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&bg_color=30,c920b3e39fda&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&bg_color=30,c920b3,e39fda&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
