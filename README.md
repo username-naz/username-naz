@@ -7,7 +7,8 @@
 <img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 
 ### Steps to write code for anything:
-step 1: <a href = "https://stackoverflow.com/"><img height = "100" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/330px-Stack_Overflow_logo.svg.png"></a>  
+step 1:  
+<a href = "https://stackoverflow.com/"><img height = "50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/330px-Stack_Overflow_logo.svg.png"></a>  
 &nbsp;  
 &nbsp;  
 &nbsp;  
