@@ -17,4 +17,4 @@ step 1:
 <br><br>
 
 ### Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=username-naz&?theme=radical" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz)](https://github.com/anuraghazra/github-readme-stats)
