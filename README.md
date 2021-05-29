@@ -13,4 +13,5 @@ step 1:
 <br><br>
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&icon_color=fff&bg_color=30,e03889,ffb0d6&title_color=fff&border_color=#ffbd66&text_color=fff)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username-naz&show_icons=true&icon_color=fff&bg_color=30,e03889,ffb0d6&title_color=fff&border_color=#ffbd66&text_color=fff)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=username-naz&theme=onedark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
